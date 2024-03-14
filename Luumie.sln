@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuumieEngine", "LuumieEngine\LuumieEngine.csproj", "{B779FD77-75F5-415D-8F89-FC5981BAFCD4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_files", "_files", "{0B6BDEB5-510B-475C-BA61-DF36B12732BD}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B779FD77-75F5-415D-8F89-FC5981BAFCD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B779FD77-75F5-415D-8F89-FC5981BAFCD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B779FD77-75F5-415D-8F89-FC5981BAFCD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B779FD77-75F5-415D-8F89-FC5981BAFCD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
